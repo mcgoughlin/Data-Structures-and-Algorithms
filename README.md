@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Implementations for the COS216 online Princeton course
+Implementations for the COS126 online Princeton course
